@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "O9miBs9iZQLZguSOPuw35cKsb2RKP8Pcjr+1HKITr8c3WuwGKff3Eej25usB1g+F4taYIExVkS8D7Ay1jcbKww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Hp\\Desktop\\New folder\\Exceptions-Homework\\Exceptions-Homework\\Exceptions-Homework.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
+  ],
+  "logs": []
+}
